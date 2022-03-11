@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matematik_hafta_2_1", "Matematik_hafta_2_1\Matematik_hafta_2_1.csproj", "{1D16FC34-6D31-48A3-B878-269BF3B26440}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matematik_hafta_2_2", "Matematik_hafta_2_2\Matematik_hafta_2_2.csproj", "{E97D40A7-F66B-4523-8074-579C76376FDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Makina_3_Hafta_1", "..\MakinaBolumuDersleri\Makina_3_Hafta_1\Makina_3_Hafta_1.csproj", "{B7D09FC1-EF6E-4B92-843B-3B3CA6022024}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Makina_3_Hafta_2", "..\MakinaBolumuDersleri\Makina_3_Hafta_2\Makina_3_Hafta_2.csproj", "{547137F1-2AF7-4721-9409-41A82BDC42C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "strToReelandReelToStr", "..\MakinaBolumuDersleri\strToReelandReelToStr\strToReelandReelToStr.csproj", "{93C25058-2E29-47ED-AC19-741BBCB584A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D16FC34-6D31-48A3-B878-269BF3B26440}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D16FC34-6D31-48A3-B878-269BF3B26440}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D16FC34-6D31-48A3-B878-269BF3B26440}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D16FC34-6D31-48A3-B878-269BF3B26440}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E97D40A7-F66B-4523-8074-579C76376FDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E97D40A7-F66B-4523-8074-579C76376FDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E97D40A7-F66B-4523-8074-579C76376FDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E97D40A7-F66B-4523-8074-579C76376FDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7D09FC1-EF6E-4B92-843B-3B3CA6022024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7D09FC1-EF6E-4B92-843B-3B3CA6022024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7D09FC1-EF6E-4B92-843B-3B3CA6022024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7D09FC1-EF6E-4B92-843B-3B3CA6022024}.Release|Any CPU.Build.0 = Release|Any CPU
+		{547137F1-2AF7-4721-9409-41A82BDC42C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{547137F1-2AF7-4721-9409-41A82BDC42C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{547137F1-2AF7-4721-9409-41A82BDC42C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{547137F1-2AF7-4721-9409-41A82BDC42C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93C25058-2E29-47ED-AC19-741BBCB584A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93C25058-2E29-47ED-AC19-741BBCB584A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93C25058-2E29-47ED-AC19-741BBCB584A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93C25058-2E29-47ED-AC19-741BBCB584A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95233455-2FF3-443B-98F9-C8822908DF9C}
+	EndGlobalSection
+EndGlobal
