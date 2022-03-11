@@ -1,0 +1,10 @@
+C:\Users\Senol\source\repos\MakinaBolumuDersleri\strToReelandReelToStr\bin\Debug\strToReelandReelToStr.exe.config
+C:\Users\Senol\source\repos\MakinaBolumuDersleri\strToReelandReelToStr\bin\Debug\strToReelandReelToStr.exe
+C:\Users\Senol\source\repos\MakinaBolumuDersleri\strToReelandReelToStr\bin\Debug\strToReelandReelToStr.pdb
+C:\Users\Senol\source\repos\MakinaBolumuDersleri\strToReelandReelToStr\obj\Debug\strToReelandReelToStr.csproj.AssemblyReference.cache
+C:\Users\Senol\source\repos\MakinaBolumuDersleri\strToReelandReelToStr\obj\Debug\strToReelandReelToStr.Form1.resources
+C:\Users\Senol\source\repos\MakinaBolumuDersleri\strToReelandReelToStr\obj\Debug\strToReelandReelToStr.Properties.Resources.resources
+C:\Users\Senol\source\repos\MakinaBolumuDersleri\strToReelandReelToStr\obj\Debug\strToReelandReelToStr.csproj.GenerateResource.cache
+C:\Users\Senol\source\repos\MakinaBolumuDersleri\strToReelandReelToStr\obj\Debug\strToReelandReelToStr.csproj.CoreCompileInputs.cache
+C:\Users\Senol\source\repos\MakinaBolumuDersleri\strToReelandReelToStr\obj\Debug\strToReelandReelToStr.exe
+C:\Users\Senol\source\repos\MakinaBolumuDersleri\strToReelandReelToStr\obj\Debug\strToReelandReelToStr.pdb
