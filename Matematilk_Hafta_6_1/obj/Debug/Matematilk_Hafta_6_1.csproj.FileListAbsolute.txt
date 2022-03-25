@@ -1,0 +1,7 @@
+C:\Users\Senol\source\repos\MatematikBolumu\Matematilk_Hafta_6_1\bin\Debug\Matematilk_Hafta_6_1.exe.config
+C:\Users\Senol\source\repos\MatematikBolumu\Matematilk_Hafta_6_1\bin\Debug\Matematilk_Hafta_6_1.exe
+C:\Users\Senol\source\repos\MatematikBolumu\Matematilk_Hafta_6_1\bin\Debug\Matematilk_Hafta_6_1.pdb
+C:\Users\Senol\source\repos\MatematikBolumu\Matematilk_Hafta_6_1\obj\Debug\Matematilk_Hafta_6_1.csproj.AssemblyReference.cache
+C:\Users\Senol\source\repos\MatematikBolumu\Matematilk_Hafta_6_1\obj\Debug\Matematilk_Hafta_6_1.csproj.CoreCompileInputs.cache
+C:\Users\Senol\source\repos\MatematikBolumu\Matematilk_Hafta_6_1\obj\Debug\Matematilk_Hafta_6_1.exe
+C:\Users\Senol\source\repos\MatematikBolumu\Matematilk_Hafta_6_1\obj\Debug\Matematilk_Hafta_6_1.pdb
